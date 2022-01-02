@@ -1,4 +1,4 @@
-# moderntrade
+# moderntrade Dashboard
 
 
 This project is mainly use for data storing in the data base collecting the same using Front UI page. 
