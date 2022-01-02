@@ -1,0 +1,2 @@
+
+document.write('<center style = "padding-top:5% ; color:white" ><p style="background-color:#8B95B2;">@Copyright 2022, IT Team Mumbai<br/>All Rights Reserved</p></center>')
